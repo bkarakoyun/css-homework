@@ -1,0 +1,34 @@
+
+body {
+    background-color: #243A73;
+
+}
+
+header,body,footer {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+
+header {
+    color:#F2EBE9;
+    font-size: 30px;
+}
+
+.header {
+    color: black;
+    font-size: 30px;
+}
+
+h2 {
+    color: #F2EBE9;
+    font-size: 30px;
+}
+
+p {
+    color: #F2EBE9;
+    font-size: 20px;
+}
+
+footer {
+    color:#F2EBE9;
+    font-size: 15px;
+}
